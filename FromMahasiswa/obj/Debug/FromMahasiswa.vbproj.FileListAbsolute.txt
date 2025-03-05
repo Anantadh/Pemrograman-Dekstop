@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\bin\Debug\FromMahasiswa.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\bin\Debug\FromMahasiswa.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\bin\Debug\FromMahasiswa.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\bin\Debug\FromMahasiswa.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.Form2.resources
