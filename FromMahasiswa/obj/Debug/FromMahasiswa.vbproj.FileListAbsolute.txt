@@ -9,3 +9,4 @@ c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasisw
 c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.xml
 c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.pdb
 c:\users\lenovo\documents\visual studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.Form2.resources
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\FromMahasiswa\FromMahasiswa\obj\Debug\FromMahasiswa.Form3.resources
